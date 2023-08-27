@@ -1,2 +1,2 @@
 # Cotacao_Dolar
-Teste para ver se o git pega a modificação
+Um projetinho feito em Windows Forms C# consumindo a API da HG Brasil.
